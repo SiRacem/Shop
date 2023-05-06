@@ -1,0 +1,113 @@
+@media only screen and (min-width: 767px) {
+    .page {
+        margin-right: 0 !important;
+        margin-left: 9rem;
+    }
+}
+
+.content.ps-3.pe-5 {
+    padding-right: 1rem !important;
+    padding-left: 3rem !important;
+}
+
+.wallet .ecard .icon {
+    left: auto !important;
+    right: 2rem !important;
+}
+
+.cion-select {
+    padding-inline-start: 10px !important;
+}
+
+.amount .pay-currency {
+    margin-left: 10px;
+}
+
+.ps-0,
+.pe-0 {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.ms-1 {
+    margin-left: 0 !important;
+    margin-right: 0.25rem !important;
+}
+
+.ms-2 {
+    margin-left: 0 !important;
+    margin-right: 0.5rem !important;
+}
+
+.me-2 {
+    margin-left: 0rem !important;
+    margin-right: 0.5 !important;
+}
+
+.me-3 {
+    margin-left: 0 !important;
+    margin-right: 1rem !important;
+}
+
+.ms-3 {
+    margin-left: 0 !important;
+    margin-right: 1rem !important;
+}
+
+.ms-4 {
+    margin-left: 0 !important;
+    margin-right: 1.5rem !important;
+}
+
+.me-4 {
+    margin-right: 0 !important;
+    margin-left: 1.5rem !important;
+}
+
+.user-img.ms-2 {
+    margin-left: 0 !important;
+    margin-right: 0.5rem !important;
+}
+
+main.page {
+    border-radius: 2rem 0rem 0rem 0rem !important;
+}
+
+.stage-small-line:first-of-type {
+    width: 14% !important;
+}
+
+.last-stage-small-line {
+    width: 8% !important;
+}
+
+.stage-line {
+    width: 34% !important;
+}
+
+.certificated-badge {
+    margin-left: 0 !important;
+    margin-right: 1.5rem !important;
+}
+
+.certificated-badge span {
+    margin-left: 0 !important;
+    margin-right: 1rem !important;
+}
+
+.uil-left-arrow-from-left {
+    transform: rotate(180deg);
+}
+
+@media (min-width: 768px) {
+    .ms-md-4 {
+        margin-left: 0 !important;
+        margin-right: 1.5rem !important;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    main.page .content.ps-3.pe-5 {
+        padding: 0.7rem !important;
+    }
+}
